@@ -1,0 +1,4 @@
+.totalTime{
+    display: flex;
+    flex-direction: row;
+}
